@@ -102,6 +102,8 @@ input-file:
 - Microsoft.Sql/preview/2017-10-01-preview/shortTermRetentionPolicies.json
 - Microsoft.Sql/preview/2017-10-01-preview/TdeCertificates.json
 - Microsoft.Sql/preview/2017-10-01-preview/ManagedInstanceTdeCertificates.json
+- Microsoft.Sql/preview/2017-10-01-preview/maintenanceWindows.json
+- Microsoft.Sql/preview/2017-10-01-preview/maintenanceWindowOptions.json
 
 
 # Needed when there is more than one input file
